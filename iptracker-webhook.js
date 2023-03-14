@@ -1,3 +1,10 @@
+/*
+Notice this a initial template for this purpose.
+You're totally free to increase and make this code better for your purpose.
+On your HTML code insert:
+<script src="https://ipinfo.io/?format=jsonp&callback=collectInfo"></script>
+*/
+
 function collectInfo(json) {
   // Create a new XMLHttpRequest object
   var wbRequest = new XMLHttpRequest();
