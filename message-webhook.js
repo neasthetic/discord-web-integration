@@ -1,6 +1,6 @@
 /*
 Don't forget to include the following script tag in your HTML file:
-<script type="text/javascript" src="assets/javascript/messageToWB.js"></script>
+<script type="text/javascript" src="assets/javascript/message-webhook.js"></script>
 */
 
 function sendMessage() {
