@@ -6,7 +6,7 @@ They're very simple but useful feel free to increase it to match your needs or u
 
 ### Authors
 
-- [@neast](https://www.github.com/ghostneast) & [@nicolas](https://www.github.com/devnicoolas) 
+- [@neast](https://www.github.com/ghostneast) & [@nicolas](https://www.github.com/bugdenier) 
 
 
 ### Features
